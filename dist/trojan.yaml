@@ -1,5 +1,5 @@
-port: 1080
-socks-port: 1086
+port: 7890
+socks-port: 7891
 allow-lan: true
 mode: Rule
 log-level: info
@@ -1896,7 +1896,6 @@ Rule:
  - DOMAIN-SUFFIX,bduserlog.eastmoney.com,🛑 全球拦截
  - DOMAIN-SUFFIX,beacon.gtimg.com,🛑 全球拦截
  - DOMAIN-SUFFIX,beacon.krxd.net,🛑 全球拦截
- - DOMAIN-SUFFIX,beacon.sina.com.cn,🛑 全球拦截
  - DOMAIN-SUFFIX,beacon.tingyun.com,🛑 全球拦截
  - DOMAIN-SUFFIX,beacon-us-sjc1.rubiconproject.com,🛑 全球拦截
  - DOMAIN-SUFFIX,beap.adss.yahoo.com,🛑 全球拦截
@@ -2441,7 +2440,6 @@ Rule:
  - DOMAIN-SUFFIX,coinnebula.com,🛑 全球拦截
  - DOMAIN-SUFFIX,col.hztags.net,🛑 全球拦截
  - DOMAIN-SUFFIX,col.pagechoice.net,🛑 全球拦截
- - DOMAIN-SUFFIX,collector.githubapp.com,🛑 全球拦截
  - DOMAIN-SUFFIX,collector.viki.io,🛑 全球拦截
  - DOMAIN-SUFFIX,collector.wasu.cn,🛑 全球拦截
  - DOMAIN-SUFFIX,combine.urbanairship.com,🛑 全球拦截
@@ -4885,7 +4883,6 @@ Rule:
  - DOMAIN-SUFFIX,m.bapkt.com,🛑 全球拦截
  - DOMAIN-SUFFIX,m.bbvjs.com,🛑 全球拦截
  - DOMAIN-SUFFIX,m.bdiae.com,🛑 全球拦截
- - DOMAIN-SUFFIX,m.beacon.sina.com.cn,🛑 全球拦截
  - DOMAIN-SUFFIX,m.bentengcn.com,🛑 全球拦截
  - DOMAIN-SUFFIX,m.biquge5200.cc,🛑 全球拦截
  - DOMAIN-SUFFIX,m.bokanedu.net,🛑 全球拦截
@@ -5562,7 +5559,6 @@ Rule:
  - DOMAIN-SUFFIX,news-l.play.ott.video.qq.com,🛑 全球拦截
  - DOMAIN-SUFFIX,news-log.51y5.net,🛑 全球拦截
  - DOMAIN-SUFFIX,newspage.xilu.com,🛑 全球拦截
- - DOMAIN-SUFFIX,newspush.sinajs.cn,🛑 全球拦截
  - DOMAIN-SUFFIX,newswifiapi.dfshurufa.com,🛑 全球拦截
  - DOMAIN-SUFFIX,newton-api.ele.me,🛑 全球拦截
  - DOMAIN-SUFFIX,nexage.com,🛑 全球拦截
@@ -6312,7 +6308,6 @@ Rule:
  - DOMAIN-SUFFIX,rr.knet.cn,🛑 全球拦截
  - DOMAIN-SUFFIX,rrr.youle55.com,🛑 全球拦截
  - DOMAIN-SUFFIX,rrsubway.com,🛑 全球拦截
- - DOMAIN-SUFFIX,rs.sinajs.cn,🛑 全球拦截
  - DOMAIN-SUFFIX,rs1.rensheng5.com,🛑 全球拦截
  - DOMAIN-SUFFIX,rsas.szzek.com,🛑 全球拦截
  - DOMAIN-SUFFIX,rsccs.com,🛑 全球拦截
@@ -6483,7 +6478,6 @@ Rule:
  - DOMAIN-SUFFIX,saxxaz.taohuayuan8888.com,🛑 全球拦截
  - DOMAIN-SUFFIX,sb.scorecardresearch.com,🛑 全球拦截
  - DOMAIN-SUFFIX,sb88b.com,🛑 全球拦截
- - DOMAIN-SUFFIX,sbeacon.sina.com.cn,🛑 全球拦截
  - DOMAIN-SUFFIX,sbrqp.com,🛑 全球拦截
  - DOMAIN-SUFFIX,sbw.ysjweb.com,🛑 全球拦截
  - DOMAIN-SUFFIX,sc.58mingtian.cn,🛑 全球拦截
@@ -7067,7 +7061,6 @@ Rule:
  - DOMAIN-SUFFIX,tjhuajiantang.com,🛑 全球拦截
  - DOMAIN-SUFFIX,tjlog.easou.com,🛑 全球拦截
  - DOMAIN-SUFFIX,tjlog.ps.easou.com,🛑 全球拦截
- - DOMAIN-SUFFIX,tjs.sjs.sinajs.cn,🛑 全球拦截
  - DOMAIN-SUFFIX,tk.baidu.com,🛑 全球拦截
  - DOMAIN-SUFFIX,tk.optaim.com,🛑 全球拦截
  - DOMAIN-SUFFIX,tkd777.cn,🛑 全球拦截
@@ -9065,6 +9058,9 @@ Rule:
  - DOMAIN-SUFFIX,yuanchengxiezuo.com,🛑 全球拦截
  - DOMAIN-SUFFIX,zbrushcn.com,🛑 全球拦截
  - DOMAIN-SUFFIX,zhzzx.com,🛑 全球拦截
+ - DOMAIN-SUFFIX,github.global.ssl.fastly.net,🌍 国外媒体
+ - DOMAIN-SUFFIX,collector.githubapp.com,🌍 国外媒体
+ - DOMAIN-SUFFIX,github.com,🌍 国外媒体
  - DOMAIN-SUFFIX,deezer.com,🌍 国外媒体
  - DOMAIN-SUFFIX,dzcdn.net,🌍 国外媒体
  - DOMAIN-SUFFIX,kkbox.com,🌍 国外媒体
