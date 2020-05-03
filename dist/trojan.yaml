@@ -2719,7 +2719,6 @@ Rule:
  - DOMAIN-SUFFIX,data.danmu.baofeng.com,🛑 全球拦截
  - DOMAIN-SUFFIX,data.doodlemobile.com,🛑 全球拦截
  - DOMAIN-SUFFIX,data.gosquared.com,🛑 全球拦截
- - DOMAIN-SUFFIX,data.mistat.xiaomi.com,🛑 全球拦截
  - DOMAIN-SUFFIX,data.neuroxmedia.com,🛑 全球拦截
  - DOMAIN-SUFFIX,data2.doodlemobile.com,🛑 全球拦截
  - DOMAIN-SUFFIX,data2.gosquared.com,🛑 全球拦截
@@ -6539,7 +6538,6 @@ Rule:
  - DOMAIN-SUFFIX,searchswapper.com,🛑 全球拦截
  - DOMAIN-SUFFIX,seavideo-ak.espn.go.com,🛑 全球拦截
  - DOMAIN-SUFFIX,sebar.thand.info,🛑 全球拦截
- - DOMAIN-SUFFIX,sec.resource.xiaomi.net,🛑 全球拦截
  - DOMAIN-SUFFIX,secpay.wostore.cn,🛑 全球拦截
  - DOMAIN-SUFFIX,secretmedia.s3.amazonaws.com,🛑 全球拦截
  - DOMAIN-SUFFIX,secure.dsp.com,🛑 全球拦截
@@ -8340,7 +8338,6 @@ Rule:
  - DOMAIN-SUFFIX,tracking.miui.com,🛑 全球拦截
  - DOMAIN,adv.sec.intl.miui.com,🛑 全球拦截
  - DOMAIN,adv.sec.miui.com,🛑 全球拦截
- - DOMAIN,data.mistat.xiaomi.com,🛑 全球拦截
  - DOMAIN,tracking.intl.miui.com,🛑 全球拦截
  - DOMAIN,ad.api.moji.com,🛑 全球拦截
  - DOMAIN,adlaunch.moji.com,🛑 全球拦截
@@ -9212,6 +9209,9 @@ Rule:
  - DOMAIN-SUFFIX,youtube.com,🌍 国外媒体
  - DOMAIN,youtubei.googleapis.com,🌍 国外媒体
  - DOMAIN-KEYWORD,beplay,🌏 国内媒体
+ - DOMAIN-SUFFIX,data.mistat.xiaomi.com,🌏 国内媒体
+ - DOMAIN,data.mistat.xiaomi.com,🌏 国内媒体
+ - DOMAIN-SUFFIX,sec.resource.xiaomi.net,🌏 国内媒体
  - DOMAIN,cdp.cloud.unity3d.com,🌏 国内媒体
  - DOMAIN-SUFFIX,battle.net,🌏 国内媒体
  - DOMAIN-SUFFIX,battlenet.com,🌏 国内媒体
