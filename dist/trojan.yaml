@@ -165,6 +165,16 @@ Rule:
  - DOMAIN,vd.l.qq.com,🎯 全球直连
  - DOMAIN,analytics.strava.com,🎯 全球直连
  - DOMAIN,msg.umeng.com,🎯 全球直连
+ - DOMAIN,alog.umeng.com,🎯 全球直连
+ - DOMAIN-SUFFIX,ulogs.umeng.com,🎯 全球直连
+ - DOMAIN,alogs.umeng.com,🎯 全球直连
+ - DOMAIN,alog.umengcloud.com,🎯 全球直连
+ - DOMAIN,alogs.umengcloud.com,🎯 全球直连
+ - DOMAIN,ar.umeng.com,🎯 全球直连
+ - DOMAIN,plbslog.umeng.com,🎯 全球直连
+ - DOMAIN,ulogs.umeng.com,🎯 全球直连
+ - DOMAIN,ulogs.umengcloud.com,🎯 全球直连
+ - DOMAIN-KEYWORD,umeng,🎯 全球直连
  - DOMAIN,msg.umengcloud.com,🎯 全球直连
  - DOMAIN,mcupdate.gstarcad.com,🛑 全球拦截
  - DOMAIN,adx.open-adx.com,🛑 全球拦截
@@ -2263,7 +2273,6 @@ Rule:
  - DOMAIN-SUFFIX,cdnny.com,🛑 全球拦截
  - DOMAIN-SUFFIX,cdnpa.hyperpromote.com,🛑 全球拦截
  - DOMAIN-SUFFIX,cdn-rtb.sape.ru,🛑 全球拦截
- - DOMAIN-SUFFIX,cdn-settings.segment.com,🛑 全球拦截
  - DOMAIN-SUFFIX,cdntest.a8tiyu.com,🛑 全球拦截
  - DOMAIN-SUFFIX,cds.51y5.net,🛑 全球拦截
  - DOMAIN-SUFFIX,cdyqc.com,🛑 全球拦截
@@ -5398,7 +5407,6 @@ Rule:
  - DOMAIN-SUFFIX,mobileapptracking.com,🛑 全球拦截
  - DOMAIN-SUFFIX,mobiledissector.com,🛑 全球拦截
  - DOMAIN-SUFFIX,mobile-pubt.ele.me,🛑 全球拦截
- - DOMAIN-SUFFIX,mobile-service.segment.com,🛑 全球拦截
  - DOMAIN-SUFFIX,mobilityware.com,🛑 全球拦截
  - DOMAIN-SUFFIX,mobiorg8.com,🛑 全球拦截
  - DOMAIN-SUFFIX,mobisage.cn,🛑 全球拦截
@@ -6553,7 +6561,6 @@ Rule:
  - DOMAIN-SUFFIX,seen.h01ce.cn,🛑 全球拦截
  - DOMAIN-SUFFIX,seen.hgo7r.cn,🛑 全球拦截
  - DOMAIN-SUFFIX,seg.sharethis.com,🛑 全球拦截
- - DOMAIN-SUFFIX,segment.com,🛑 全球拦截
  - DOMAIN-SUFFIX,selfie.snapmobileasia.net,🛑 全球拦截
  - DOMAIN-SUFFIX,sell1.etlong.com,🛑 全球拦截
  - DOMAIN-SUFFIX,sensorsdata.ruguoapp.com,🛑 全球拦截
@@ -8101,7 +8108,6 @@ Rule:
  - DOMAIN-SUFFIX,zws.avvo.com,🛑 全球拦截
  - DOMAIN-SUFFIX,img.adnyg.com.w.kunlungr.com,🛑 全球拦截
  - DOMAIN-SUFFIX,log.tagtic.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,ulogs.umeng.com,🛑 全球拦截
  - DOMAIN-SUFFIX,zx.baosmx.com,🛑 全球拦截
  - DOMAIN-SUFFIX,zxcs.ggwan.com,🛑 全球拦截
  - DOMAIN-SUFFIX,zxcs.linghit.com,🛑 全球拦截
@@ -8404,14 +8410,6 @@ Rule:
  - DOMAIN,ivy.pchouse.com.cn,🛑 全球拦截
  - DOMAIN,adtrack.ucweb.com,🛑 全球拦截
  - DOMAIN,track.uc.cn,🛑 全球拦截
- - DOMAIN,alog.umeng.com,🛑 全球拦截
- - DOMAIN,alogs.umeng.com,🛑 全球拦截
- - DOMAIN,alog.umengcloud.com,🛑 全球拦截
- - DOMAIN,alogs.umengcloud.com,🛑 全球拦截
- - DOMAIN,ar.umeng.com,🛑 全球拦截
- - DOMAIN,plbslog.umeng.com,🛑 全球拦截
- - DOMAIN,ulogs.umeng.com,🛑 全球拦截
- - DOMAIN,ulogs.umengcloud.com,🛑 全球拦截
  - DOMAIN,a.wkanx.com,🛑 全球拦截
  - DOMAIN,cwx.lianwangtech.com,🛑 全球拦截
  - DOMAIN,c1wx.lianwangtech.com,🛑 全球拦截
@@ -8545,7 +8543,6 @@ Rule:
  - DOMAIN,api.whizzone.com,🛑 全球拦截
  - DOMAIN-KEYWORD,traffic,🛑 全球拦截
  - DOMAIN-SUFFIX,mmstat.com,🛑 全球拦截
- - DOMAIN-KEYWORD,umeng,🛑 全球拦截
  - DOMAIN-SUFFIX,4paradigm.com,🛑 全球拦截
  - DOMAIN-KEYWORD,talkingdata,🛑 全球拦截
  - DOMAIN-SUFFIX,catch.gift,🛑 全球拦截
@@ -9055,6 +9052,9 @@ Rule:
  - DOMAIN-SUFFIX,yuanchengxiezuo.com,🛑 全球拦截
  - DOMAIN-SUFFIX,zbrushcn.com,🛑 全球拦截
  - DOMAIN-SUFFIX,zhzzx.com,🛑 全球拦截
+ - DOMAIN-SUFFIX,mobile-service.segment.com,🌍 国外媒体
+ - DOMAIN-SUFFIX,segment.com,🌍 国外媒体
+ - DOMAIN-SUFFIX,cdn-settings.segment.com,🌍 国外媒体
  - DOMAIN-SUFFIX,github.global.ssl.fastly.net,🌍 国外媒体
  - DOMAIN-SUFFIX,collector.githubapp.com,🌍 国外媒体
  - DOMAIN-SUFFIX,github.com,🌍 国外媒体
