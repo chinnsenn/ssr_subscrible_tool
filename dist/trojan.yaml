@@ -9,7 +9,7 @@ proxies:
     type: trojan
     server: trojan.chinnsenn.com # 服务器域名
     port: 443
-    password: cc136250 #Trojan 密码
+    password: gk123456 #Trojan 密码
 proxy-groups:
   - name: 🔰 节点选择
     type: select
